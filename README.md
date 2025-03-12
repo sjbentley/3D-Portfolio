@@ -51,8 +51,8 @@ Ensure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone git@github.com/sjbentley/threeD_portfolio.git
-cd threeD_portfolio
+git clone git@github.com/sjbentley/3D-Portfolio.git
+cd 3D-Portfolio
 ```
 
 ### Installation
