@@ -18,6 +18,8 @@ This project is not just a website; it’s a cutting-edge 3D powered portfolio p
 <br>
 
 ![sirjahibentley®](src/assets/overview.png)
+![sirjahibentley®](src/assets/projects.png)
+![sirjahibentley®](src/assets/contact.png)
 
 ---
 
