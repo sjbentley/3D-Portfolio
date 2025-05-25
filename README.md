@@ -1,42 +1,56 @@
-## 3D Developer Portfolio
----  
+<div align="center">
+  <h1>Developer Portfolio</h1>
+  <p><strong>This project is a 3D interactive developer portfolio built using React.js, Three.js, and Tailwind CSS.</strong></p>
 
-## 📋 Table of Contents
+  [![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)](https://www.typescriptlang.org/)
+  [![React](https://img.shields.io/badge/React-18.3.1-61dafb.svg)](https://reactjs.org/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.0-38bdf8.svg)](https://tailwindcss.com/)
+  [![Vite](https://img.shields.io/badge/Vite-5.0.0-646cff.svg)](https://vitejs.dev/)
+  [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+</div>
 
-1. [🤖 Introduction](#introduction)
-2. [⚙️ Tech Stack](#tech-stack)
-3. [🔋 Features](#features)
-4. [🤸 Quick Start](#quick-start)
-5. [🕸️ Snippets](#snippets)
-6. [🔗 Links](#links)
-7. [🚀 More](#more)
+--- 
 
+## 🚀 Welcome to the Future of Interactive Portfolios
 
-## 🤖 Introduction
+This project is not just a website; it’s a cutting-edge 3D powered portfolio platform designed to captivate and engage visitors like never before. By combining immersive 3D models, seamless animations, and intuitive interactivity, it showcases skills, projects, and testimonials in a visually stunning way. Built with React.js, Three.js, React Three Fiber, and Framer Motion, this platform offers a truly unique digital presence — perfect for creatives, developers, and innovators who want to stand out.
 
-This project is a 3D interactive developer portfolio built using React.js, Three.js, and Tailwind CSS. 
+<br>
 
-## ⚙️ Tech Stack
+![sirjahibentley®](src/assets/overview.png)
 
-- React.js
-- Three.js
-- React Three Fiber
-- React Three Drei
-- Email JS
-- Vite
-- Tailwind CSS
+---
 
 ## 🔋 Features
 
-- **Customizable 3D Hero Section**: Includes a 3D desktop model easily customizable to suit specific needs.
-- **Interactive Experience and Work Sections**: Utilizes animations powered by Framer Motion for engaging user experience.
-- **3D Skills Section**: Showcases skills using 3D geometries through Three.js and React Three Fiber.
-- **Animated Projects and Testimonials**: Features animated sections using Framer Motion for projects and client testimonials.
-- **Contact Section with 3D Earth Model**: Integrates a 3D earth model with email functionality powered by EmailJS.
-- **3D Stars**: Generate stars progressively at random positions using Three.js for background display.
-- **Consistent Animations**: Implements cohesive animations throughout the website using Framer Motion.
-- **Responsive Design**: Ensures optimal display and functionality across all devices.
-- **Code Architecture and Reusability**: Clean, modular, and scalable codebase.
+## Features
+
+- **Customizable 3D Hero Section**  
+  A detailed 3D desktop model that can be easily customized to fit your personal or brand style.
+
+- **Interactive Experience and Work Sections**  
+  Engaging, animated sections powered by Framer Motion to showcase your experience and projects dynamically.
+
+- **3D Skills Showcase**  
+  Skill sets displayed using captivating 3D geometries, leveraging Three.js and React Three Fiber for a unique presentation.
+
+- **Animated Projects and Testimonials**  
+  Smoothly animated projects and client testimonials, enhancing credibility and visual appeal.
+
+- **Contact Section with 3D Earth Model**  
+  An interactive 3D Earth combined with a fully functional contact form powered by EmailJS for seamless communication.
+
+- **Dynamic 3D Stars Background**  
+  Progressive generation of stars at random positions using Three.js to add depth and ambiance.
+
+- **Consistent and Cohesive Animations**  
+  Site-wide animations implemented with Framer Motion for a polished and professional feel.
+
+- **Responsive Design**  
+  Fully responsive layout ensuring optimal usability across desktop, tablet, and mobile devices.
+
+- **Clean and Modular Codebase**  
+  Well-structured, reusable components designed for scalability and easy maintenance.
 
 ## 🤸 Quick Start
 
