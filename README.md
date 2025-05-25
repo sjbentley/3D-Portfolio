@@ -115,3 +115,7 @@ For further questions or feature requests, open an issue in the repository. 🚀
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+[Linktr.ee](https://linktr.ee/sirjahibentley) • [Tiktok](https://tiktok.com/sirjahibentley) • [Instagram](https://instagram.com/sirjahibentley) • [Facebook](https://facebook.com/sirjahibentley)
