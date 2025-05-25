@@ -26,8 +26,6 @@ This project is not just a website; it’s a cutting-edge 3D powered portfolio p
 
 ## 🔋 Features
 
-## Features
-
 - **Customizable 3D Hero Section**  
   A detailed 3D desktop model that can be easily customized to fit your personal or brand style.
 
