@@ -118,4 +118,4 @@ This project is licensed under the MIT License.
 
 ---
 
-[Linktr.ee](https://linktr.ee/sirjahibentley) • [Tiktok](https://tiktok.com/sirjahibentley) • [Instagram](https://instagram.com/sirjahibentley) • [Facebook](https://facebook.com/sirjahibentley)
+[Linktr.ee](https://linktr.ee/sirjahibentley) • [Tiktok](https://tiktok.com/@sirjahibentley) • [Instagram](https://instagram.com/sirjahibentley) • [Facebook](https://facebook.com/sirjahibentley)
