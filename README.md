@@ -27,31 +27,31 @@ This project is not just a website; it’s a cutting-edge 3D powered portfolio p
 ## 🔋 Features
 
 - **Customizable 3D Hero Section**  
-  A detailed 3D desktop model that can be easily customized to fit your personal or brand style.
+  - A detailed 3D desktop model that can be easily customized to fit your personal or brand style.
 
 - **Interactive Experience and Work Sections**  
-  Engaging, animated sections powered by Framer Motion to showcase your experience and projects dynamically.
+  - Engaging, animated sections powered by Framer Motion to showcase your experience and projects dynamically.
 
 - **3D Skills Showcase**  
-  Skill sets displayed using captivating 3D geometries, leveraging Three.js and React Three Fiber for a unique presentation.
+  - Skill sets displayed using captivating 3D geometries, leveraging Three.js and React Three Fiber for a unique presentation.
 
 - **Animated Projects and Testimonials**  
-  Smoothly animated projects and client testimonials, enhancing credibility and visual appeal.
+  - Smoothly animated projects and client testimonials, enhancing credibility and visual appeal.
 
 - **Contact Section with 3D Earth Model**  
-  An interactive 3D Earth combined with a fully functional contact form powered by EmailJS for seamless communication.
+  - An interactive 3D Earth combined with a fully functional contact form powered by EmailJS for seamless communication.
 
 - **Dynamic 3D Stars Background**  
-  Progressive generation of stars at random positions using Three.js to add depth and ambiance.
+  - Progressive generation of stars at random positions using Three.js to add depth and ambiance.
 
 - **Consistent and Cohesive Animations**  
-  Site-wide animations implemented with Framer Motion for a polished and professional feel.
+  - Site-wide animations implemented with Framer Motion for a polished and professional feel.
 
 - **Responsive Design**  
-  Fully responsive layout ensuring optimal usability across desktop, tablet, and mobile devices.
+  - Fully responsive layout ensuring optimal usability across desktop, tablet, and mobile devices.
 
 - **Clean and Modular Codebase**  
-  Well-structured, reusable components designed for scalability and easy maintenance.
+  - Well-structured, reusable components designed for scalability and easy maintenance.
 
 ## 🤸 Quick Start
 
